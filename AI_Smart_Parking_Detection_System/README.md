@@ -5,6 +5,7 @@ An AI-powered smart parking detection system built using Python, OpenCV, and YOL
 
 This project detects vehicles in a live video stream and determines whether predefined parking slots are occupied or free. It provides real-time parking statistics and visual slot classification.
 
+
 Designed for:
 - Smart city applications
 - Intelligent transportation systems
